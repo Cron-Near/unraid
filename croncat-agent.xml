@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Container version="2">
+  <Name>croncat-agent</Name>
+  <Repository>croncat/agent</Repository>
+  <Registry>https://hub.docker.com/repository/docker/croncat/agent</Registry>
+  <Network>bridge</Network>
+  <MyIP/>
+  <Shell>sh</Shell>
+  <Privileged>false</Privileged>
+  <Support>https://discord.gg/QN8dc5Yt</Support>
+  <Project>https://docs.cron.cat/docs/</Project>
+  <Overview>Croncat provides a general-purpose, fully autonomous network that enables scheduled function calls for blockchain contract execution. It allows any application to schedule logic to get executed in the future, once or many times, triggered by an approved &#x201C;agent,&#x201D; in an economically stable format. Croncat is launching on NEAR Protocol and will initially schedule function calls in $NEAR Token. Future integrations with other NEP-141 tokens are planned.</Overview>
+  <Category>Other: Status:Stable</Category>
+  <WebUI/>
+  <TemplateURL/>
+  <Icon>https://github.com/TrevorJTClarke/cron-ui/blob/main/src/assets/cat.png</Icon>
+  <ExtraParams/>
+  <PostArgs/>
+  <CPUset/>
+  <DateInstalled>1642102052</DateInstalled>
+  <DonateText/>
+  <DonateLink/>
+  <Description>Croncat provides a general-purpose, fully autonomous network that enables scheduled function calls for blockchain contract execution. It allows any application to schedule logic to get executed in the future, once or many times, triggered by an approved &#x201C;agent,&#x201D; in an economically stable format. Croncat is launching on NEAR Protocol and will initially schedule function calls in $NEAR Token. Future integrations with other NEP-141 tokens are planned.</Description>
+  <Networking>
+    <Mode>bridge</Mode>
+    <Publish/>
+  </Networking>
+  <Data/>
+  <Environment/>
+  <Labels/>
+</Container>
